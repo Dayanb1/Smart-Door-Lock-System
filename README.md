@@ -9,3 +9,12 @@ This is a Raspberry Pi-based smart door lock system. It can be controlled using 
 - IoT (MQTT)
 - Embedded Systems
 
+
+## 📌 Features
+- Remote locking/unlocking
+- Security alerts
+- Easy integration with smart home systems
+
+## 🙋‍♂️ Author
+Dayanand N Bhivase  
+
